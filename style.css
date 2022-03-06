@@ -6,6 +6,15 @@ body {
     color: #131313;
 }
 
-.menu_list {
-    font-size: 40px;
+.header_container{
+    position: absolute;
+    width: 2187px;
+    height: 121px;
+}
+.menu_link {
+    text-decoration: none;
+    color: #131313;
+    font-weight: 500;
+    margin-right: 32px;
+    padding: 6px 8px;
 }
