@@ -1,0 +1,11 @@
+body {
+    font-family: 'Gilroy';
+    margin: 0;
+    padding: 0;
+    background-color: #f1f6f9;
+    color: #131313;
+}
+
+.menu_list {
+    font-size: 40px;
+}
