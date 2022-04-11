@@ -1,0 +1,20 @@
+body {
+    font-family: 'Gilroy';
+    margin: 0;
+    padding: 0;
+    background-color: #f1f6f9;
+    color: #131313;
+}
+
+.header_container{
+    position: absolute;
+    width: 2187px;
+    height: 121px;
+}
+.menu_link {
+    text-decoration: none;
+    color: #131313;
+    font-weight: 500;
+    margin-right: 32px;
+    padding: 6px 8px;
+}
